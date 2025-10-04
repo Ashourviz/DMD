@@ -5,8 +5,8 @@
     "مول مصر": 4,
     "Mall of Oman": 5,
     "مول عمان": 6,
-    "City Centre": 11,  # latest duplicate entry kept
-    "سيتي سنتر": 12,   # latest duplicate entry kept
+    "City Centre": 11,
+    "سيتي سنتر": 12, 
     "City Centre Mirdif": 9,
     "سيتي سنتر مردف": 10,
     "Magic Planet": 13,
@@ -55,3 +55,4 @@
     "lululemon UAE": 56,
     "LEGO UAE": 57
 }
+
