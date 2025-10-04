@@ -1,4 +1,4 @@
-keywords_dict = {
+{
     "Mall of the Emirates": 1,
     "مول الإمارات": 2,
     "Mall of Egypt": 3,
