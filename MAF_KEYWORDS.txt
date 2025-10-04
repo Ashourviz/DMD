@@ -49,9 +49,9 @@
     48: "Supeco",
     49: "سوبيكو",
     50: "MyChoice",
-    51: "ماي تشويس",
-    52: "HyperMax",
-    53: "هايبر ماكس",
-    54: "lululemon UAE",
-    55: "LEGO UAE"
+    51: "HyperMax",
+    52: "هايبر ماكس",
+    53: "lululemon UAE",
+    54: "LEGO UAE"
 }
+
